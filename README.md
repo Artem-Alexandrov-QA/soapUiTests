@@ -4,7 +4,6 @@
 - Java
 - Gradle
 - Junit5
-- Gradle
 
 ### Реализованы проверки:
 
